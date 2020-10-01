@@ -2,7 +2,7 @@
 
 The server-side code is written in Python and the data is then served to a web page using
 HTML, CSS.
-
+<hr>
 ## What it is and does
 
 A Python program that produces the HTML for a movie website that displays
